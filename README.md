@@ -10,3 +10,4 @@ Simple client side form validation. Check required, length, email and password m
 - CheckLength() to check min and max length
 - CheckEmail() to validate email with regex
 - CheckPasswordsMatch() to match confirm password
+
