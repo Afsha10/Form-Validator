@@ -80,7 +80,7 @@ h2 {
     visibility: hidden;
 }
 
-.form-control.errror small {
+.form-control.error small {
     visibility: visible;
 }
 
@@ -95,4 +95,4 @@ h2 {
     padding: 10px;
     margin: 20px;
     width: 100%;
-}
+} 
