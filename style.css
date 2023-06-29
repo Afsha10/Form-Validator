@@ -23,7 +23,7 @@ body {
 .container {
     background-color: #fff;
     border-radius: 5px;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
     width: 400px;
 }
 
@@ -58,7 +58,8 @@ h2 {
     padding: 10px;
     font-size: 14px;
 }
-/*  */
+
+
 .form-control input:focus {
     outline: 0;
     border-color: #777;
@@ -93,6 +94,6 @@ h2 {
     display: block;
     font-size: 16px;
     padding: 10px;
-    margin: 20px;
+    margin-top: 20px;
     width: 100%;
 } 
